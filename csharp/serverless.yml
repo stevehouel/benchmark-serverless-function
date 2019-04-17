@@ -2,7 +2,7 @@ service: aws-coldstart-csharp
 
 provider:
   name: aws
-  runtime: dotnetcore2.0
+  runtime: dotnetcore2.1
   versionFunctions: false
 
 package:
