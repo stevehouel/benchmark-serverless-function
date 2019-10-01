@@ -36,3 +36,6 @@ java/.serverless/
 java/target/
 python/.serverless/
 
+java/.classpath
+java/.project
+java/.settings
